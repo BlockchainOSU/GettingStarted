@@ -1,0 +1,4 @@
+Hi! My name is Kion. I am a third year electrical engineer at Ohio State.
+My interests are signal processing, computer vision, and machine learning.
+I am also the vice president of BlockchainOSU; as such I am responsible for
+the project teams.
